@@ -40,3 +40,8 @@
 5. 종료
 
      * ESC 키를 누르면 프로그램 종료.
+
+
+![Preview 모드](images/초기실행.png)
+![flip 모드](images/flip후.png)
+![Recording 모드](images/record중.png)
