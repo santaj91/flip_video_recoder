@@ -1,11 +1,11 @@
-📌 IP Camera Recording Program
+**📌 IP Camera Recording Program
 
 이 프로그램은 OpenCV를 이용하여 IP 카메라의 영상을 스트리밍하고,
 미리보기(Preview) 모드와 녹화(Record) 모드를 지원합니다.
 
 추가로, 사용자가 f 키를 누르면 영상 좌우 반전(Flip) 기능도 제공됩니다.
 
-🚀 주요 기능
+*🚀 주요 기능
 
 IP 카메라 스트리밍
 
