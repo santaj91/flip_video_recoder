@@ -9,9 +9,9 @@
 
 1. IP 카메라 스트리밍
 
-  cv2.VideoCapture를 이용하여 IP 카메라 주소(RTSP 등)에서 영상을 받아옴.
+  * cv2.VideoCapture를 이용하여 IP 카메라 주소(RTSP 등)에서 영상을 받아옴.
 
-  예: rtsp://username:password@192.168.0.10:554/stream
+  * 예: rtsp://username:password@192.168.0.10:554/stream
 
 2. Preview / Record 모드
 
