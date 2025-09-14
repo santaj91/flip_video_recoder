@@ -42,6 +42,11 @@
      * ESC 키를 누르면 프로그램 종료.
 
 
-![Preview 모드](images/초기실행.png)
-![flip 모드](images/flip후.png)
-![Recording 모드](images/record중.png)
+**Preview 모드**
+![Preview 모드](images/init.png)
+
+**Flip 모드**
+![Flip 모드](images/flip.png)
+
+**Recording 모드**
+![Recording 모드](images/recording.png)
